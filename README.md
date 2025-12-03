@@ -1,4 +1,4 @@
-#👨🏻‍💻 Customer Behavior Data Analyst Portfolio Project
+# 👨🏻‍💻 Customer Behavior Data Analyst Portfolio Project
 This repository showcases my complete, industry-standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. It demonstrates my ability to take raw data and transform it into actionable business intelligence through preparation, modeling, analysis, visualization, and reporting.
 
 This project highlights my skills in:
@@ -9,7 +9,7 @@ This project highlights my skills in:
 
 💼 Delivering insights that align with professional Data Analytics, Data Science, and Product Analytics roles
 
-##📌 Project Overview
+## 📌 Project Overview
 The goal of this project was to simulate a corporate-grade analytics workflow and prove my ability to translate raw customer data into strategic insights.
 
 Here’s what I accomplished:
@@ -22,7 +22,7 @@ Here’s what I accomplished:
 
 ✅ Reporting & Presentation: Compiled findings into a clear report and created a presentation deck to communicate insights and actionable recommendations effectively.
 
-##🛠️ How I Built This Project
+## 🛠️ How I Built This Project
 
 1. Worked in Jupyter Notebook (Customer_Shopping_Behavior_Analysis.ipynb)
 
