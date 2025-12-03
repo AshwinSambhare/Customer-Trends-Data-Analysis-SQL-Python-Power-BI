@@ -1,65 +1,51 @@
-# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
-This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
+#👨🏻‍💻 Customer Behavior Data Analyst Portfolio Project
+This repository showcases my complete, industry-standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. It demonstrates my ability to take raw data and transform it into actionable business intelligence through preparation, modeling, analysis, visualization, and reporting.
 
-This project is perfect for:
-- 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
-- 📚 Anyone learning Python, SQL, and Power BI
-- 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
+This project highlights my skills in:
 
+📊 Building a strong Portfolio Project for interviews and LinkedIn
 
-## 📌 Project Overview
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+📚 Applying Python, SQL, and Power BI in real-world analytics scenarios
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+💼 Delivering insights that align with professional Data Analytics, Data Science, and Product Analytics roles
 
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+##📌 Project Overview
+The goal of this project was to simulate a corporate-grade analytics workflow and prove my ability to translate raw customer data into strategic insights.
 
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+Here’s what I accomplished:
 
-✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+✅ Data Preparation, Modeling & Exploratory Data Analysis (Python): Cleaned and transformed the dataset, explored patterns, and prepared it for deeper analysis.
 
+✅ Data Analysis (SQL): Designed and executed queries to simulate business transactions, uncover customer segments, loyalty trends, and purchase drivers.
 
-## 🛠️ How to Use This Project
+✅ Visualization & Insights (Power BI): Built an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-   cd customer-trends-data-analysis-SQL-Python-PowerBI
-   ```
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+✅ Reporting & Presentation: Compiled findings into a clear report and created a presentation deck to communicate insights and actionable recommendations effectively.
 
-    This file contains:
+##🛠️ How I Built This Project
 
-      - Data Import
+1. Worked in Jupyter Notebook (Customer_Shopping_Behavior_Analysis.ipynb)
 
-      - Data exploration
+Imported and explored the dataset
 
-      - Data cleaning
+Cleaned and transformed data
 
-      - Connection to SQL Database
-  
-3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
+Connected Python to SQL database
 
-      - Create a database in SQL
+2. Loaded data into SQL (MySQL/PostgreSQL/MS SQL Server)
 
-      - Run Python code to load data into SQL database
-  
-      - Open **customer_behavior_sql_queries.sql**
-  
-      - Answer Business Questions using SQL Queries 
-      
-4. **Connect the SQL Database to Power BI**
+Created database schema
 
-      - Open **customer_behavior_dashboard.pbix**
-   
-      - Create interactive dashboard in Power BI
-  
-6. **Create Project Report and Presentation**
+Ran Python scripts to load data
 
-      - Create project report
-   
-      - Build presentation deck using Gamma AI
-  
-7. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
+Wrote SQL queries (customer_behavior_sql_queries.sql) to answer business questions
 
+3. Connected SQL Database to Power BI
 
+Designed and published an interactive dashboard (customer_behavior_dashboard.pbix)
+
+4. Created Report & Presentation
+
+Summarized findings in a structured report
+
+Built a presentation deck using Gamma AI to communicate insights visually
